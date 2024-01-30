@@ -1,4 +1,4 @@
-![MasterHead](https://namefbcovers.com/images/covers/shafaet-hossain_31146a1f.jpg)
+
 <h1 align="center">Hi 👋, I'm Shafaet Hossain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
