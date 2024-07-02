@@ -1,23 +1,44 @@
+<!-- Stylish Cover -->
+<p align="center">
+  <img src="[https://your-stylish-cover-image-link](https://i.ibb.co/52KFYZ8/5b01e5b8f939355d1b38858b23b1e4d8.jpg)" alt="Stylish Cover Image" width="100%" />
+</p>
+
 <h1 align="center" class="text-green-200">Hi 👋, I'm Shafaet Hossain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shafaet1074&label=Profile%20views&color=0e75b6&style=flat" alt="shafaet1074" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shafaet1074&theme=dracula" alt="shafaet1074" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p>
 
 - 🔭 I’m currently working as a **Mern Stack Developer**
 - 🌱 I’m currently learning **NextJS, Redux, NuxtJS**
 - 💬 Ask me about **React, Node.js**
 - 📫 How to reach me: **hossainshafaet63@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/shafaet-hossain" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shafaet-hossain"/>
   </a>
- 
+  <a href="https://twitter.com/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
@@ -77,30 +98,23 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafaet1074&show_icons=true&locale=en&layout=compact&theme=radical" alt="shafaet1074" />
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafaet1074&show_icons=true&locale=en&layout=compact&theme=radical" alt="shafaet1074" />
 </p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafaet1074&show_icons=true&locale=en&theme=radical" alt="shafaet1074" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafaet1074&show_icons=true&locale=en&theme=radical" alt="shafaet1074" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafaet1074&theme=radical" alt="shafaet1074" />
-</p>
-
-<h3 align="left">Graphical Representation of Commits:</h3>
-<p>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=shafaet1074&theme=dracula" alt="shafaet1074" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafaet1074&theme=radical" alt="shafaet1074" />
 </p>
 
-<h3 align="left">Achievements:</h3>
-<p align="left">
+<h3 align="center">Graphical Representation of Commits:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=shafaet1074&theme=dracula" alt="shafaet1074" />
+</p>
+
+<h3 align="center">Achievements:</h3>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shafaet1074&theme=dracula" alt="shafaet1074" />
-  </a>
-</p>
-
-<h3 align="left">Activity Overview:</h3>
-<p>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=shafaet1074&theme=dracula" alt="Activity Graph" />
-</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=shafaet1074&theme=dracula" alt="shafa
