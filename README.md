@@ -27,18 +27,16 @@
 - 💬 Ask me about **React, Node.js**
 - 📫 How to reach me: **hossainshafaet63@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/shafaet-hossain" target="blank">
+<h3 align="">Connect with me:</h3>
+<p align="">
+  <a href="https://www.linkedin.com/in/shafaet-hossain-alif-b99808180/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shafaet-hossain"/>
   </a>
-  <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+ 
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="">Languages and Tools:</h3>
+<p align="">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
@@ -98,14 +96,14 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
+<h3 align="">GitHub Stats:</h3>
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafaet1074&show_icons=true&locale=en&layout=compact&theme=radical" alt="shafaet1074" />
 </p>
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=shafaet1074&show_icons=true&locale=en&theme=radical" alt="shafaet1074" />
 </p>
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafaet1074&theme=radical" alt="shafaet1074" />
 </p>
 
