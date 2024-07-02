@@ -109,12 +109,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafaet1074&theme=radical" alt="shafaet1074" />
 </p>
 
-<h3 align="center">Graphical Representation of Commits:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shafaet1074&theme=dracula" alt="shafaet1074" />
-</p>
 
-<h3 align="center">Achievements:</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shafaet1074&theme=dracula" alt="shafa
