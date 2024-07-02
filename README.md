@@ -24,12 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shafaet-hossain" target="blank">
+  <a href="https://www.linkedin.com/in/shafaet-hossain-alif-b99808180/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shafaet-hossain"/>
   </a>
-  <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
