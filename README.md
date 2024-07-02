@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shafaet Hossain</h1>
+<h1 align="center" classname="text-green-200">Hi 👋, I'm Shafaet Hossain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Mern Stack Developer**
 
-- 🌱 I’m currently learning **Node js,Angular**
+- 🌱 I’m currently learning **NextJS,Redux,NuxtJS**
 
 - 💬 Ask me about **react,node js**
 
-- 📫 How to reach me **shalif420@gmail.com**
+- 📫 How to reach me **hossainshafaet63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
