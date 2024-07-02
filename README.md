@@ -1,6 +1,6 @@
 <!-- Stylish Cover -->
 <p align="center">
-  <img src="[https://your-stylish-cover-image-link](https://i.ibb.co/52KFYZ8/5b01e5b8f939355d1b38858b23b1e4d8.jpg)" alt="Stylish Cover Image" width="100%" />
+  <img src="https://your-stylish-cover-image-link](https://i.ibb.co/52KFYZ8/5b01e5b8f939355d1b38858b23b1e4d8.jpg" alt="Stylish Cover Image" width="100%" />
 </p>
 
 <h1 align="center" class="text-green-200">Hi 👋, I'm Shafaet Hossain</h1>
