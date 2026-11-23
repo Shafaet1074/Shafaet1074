@@ -1,17 +1,15 @@
 <!-- ===== ANIMATED HEADER ===== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shafaet%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descSize=18&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shafaet%20Hossain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer&descSize=20&descAlignY=56" width="100%" />
 </p>
-
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps;React+%7C+Node.js+%7C+Express+%7C+MongoDB+%7C+NextJs;Currently+learning+Nest.js+%26+Redux+%26+ReactNative+%26+PocketBase;Open+to+new+opportunities" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps;React+%7C+Node.js+%7C+Express+%7C+%7C+Nextjs+MongoDB;Currently+learning+Nestjs+%26+%26+PocketBase+26%+Redux;Open+to+new+opportunities" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shafaet-hossain-alif-b99808180/">
+  <a href="https://www.linkedin.com/in/shafaet-hossain-alif/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
@@ -24,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a ** Software developer** from Bangladesh. I build web applications end to end:
+I'm a **MERN stack developer** from Bangladesh. I build web applications end to end:
 responsive React interfaces, REST APIs with Node.js and Express, and data models in MongoDB.
 
 - 🔭 Working as a **MERN Stack Developer**
