@@ -5,7 +5,7 @@
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps;React+%7C+Node.js+%7C+Express+%7C+%7C+Nextjs+MongoDB;Currently+learning+Nestjs+%26+%26+PocketBase+26%+Redux;Open+to+new+opportunities" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps;React+%7C+Node.js+%7C+Express+%7C+Nextjs+MongoDB;Currently+learning+Nestjs+%26+PocketBase+Redux;Open+to+new+opportunities" alt="Typing animation" />
 </p>
 
 <p align="center">
