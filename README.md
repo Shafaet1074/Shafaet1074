@@ -1,7 +1,9 @@
 <!-- ===== ANIMATED HEADER ===== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shafaet%20Hossain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer&descSize=20&descAlignY=56" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shafaet%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descSize=18&descAlignY=60" width="100%" />
 </p>
+
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
