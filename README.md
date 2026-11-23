@@ -66,35 +66,53 @@ responsive React interfaces, REST APIs with Node.js and Express, and data models
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="[repo-link]">Project Name 1</a></h3>
-      <p>One line on what it does.</p>
-      <p><b>Stack:</b> React · Node.js · Express · MongoDB</p>
-      <a href="[live-link]">Live Demo</a> · <a href="[repo-link]">Code</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shafaet1074/SmartMeal_Planner">🤖 Smart AI Meal Planner</a></h3>
+      <p>A full-stack AI-powered nutrition tracker that analyzes meals, estimates calories, and provides personalized health advice.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>AI-powered meal analysis using Google Gemini API.</li>
+        <li>Food, hydration, and mood tracking.</li>
+        <li>Firebase authentication and personalized nutrition data.</li>
+      </ul>
+      <p><b>Stack:</b> Next.js · React · TypeScript · Tailwind CSS · Redux · Supabase · Firebase · Gemini AI</p>
+      <a href="https://github.com/Shafaet1074/SmartMeal_Planner">Source Code</a>
     </td>
-    <td width="50%">
-      <h3><a href="[repo-link]">Project Name 2</a></h3>
-      <p>One line on what it does.</p>
-      <p><b>Stack:</b> ...</p>
-      <a href="[live-link]">Live Demo</a> · <a href="[repo-link]">Code</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shafaet1074/MediCamp_Client">🏥 MediCamps</a></h3>
+      <p>A medical camp coordination platform connecting patients and healthcare providers through an integrated web application.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>Admin and participant dashboards.</li>
+        <li>Camp discovery, registration, and wishlist functionality.</li>
+        <li>Secure payment gateway and RESTful API integration.</li>
+      </ul>
+      <p><b>Stack:</b> React · Node.js · Express.js · MongoDB · JWT</p>
+      <a href="https://github.com/Shafaet1074/MediCamp_Client">Client</a> ·
+      <a href="https://github.com/Shafaet1074/Medicamp-server">Server</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3><a href="[repo-link]">Project Name 3</a></h3>
-      <p>One line on what it does.</p>
-      <p><b>Stack:</b> ...</p>
-      <a href="[live-link]">Live Demo</a> · <a href="[repo-link]">Code</a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shafaet1074/Arts-painting-website-client">🎨 ArtisanHeaven</a></h3>
+      <p>A full-stack marketplace where artists can showcase, share, and manage their artwork.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>Interactive artwork gallery and listing cards.</li>
+        <li>Artist authentication and artwork management.</li>
+        <li>Backend API for creating, updating, and deleting artworks.</li>
+      </ul>
+      <p><b>Stack:</b> React · Tailwind CSS · Node.js · Express.js · MongoDB · Firebase</p>
+      <a href="https://github.com/Shafaet1074/Arts-painting-website-client">Client</a> ·
+      <a href="https://github.com/Shafaet1074/Arts-painting-website-server">Server</a>
     </td>
-    <td width="50%">
-      <h3><a href="[repo-link]">Project Name 4</a></h3>
-      <p>One line on what it does.</p>
-      <p><b>Stack:</b> ...</p>
-      <a href="[live-link]">Live Demo</a> · <a href="[repo-link]">Code</a>
+    <td width="50%" valign="top">
+      <h3>💡 More Projects</h3>
+      <p>Explore my GitHub repositories for additional development work, experiments, and learning projects.</p>
+      <a href="https://github.com/Shafaet1074?tab=repositories">Explore All Repositories</a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
